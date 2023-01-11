@@ -1,0 +1,26 @@
+/* Write your code here. */
+.ul-container {
+  display: flex;
+  flex-direction: row;
+}
+.image {
+  width: 50vw;
+  height: 70vh;
+}
+.bg-container {
+  display: flex;
+  padding: 20px;
+  flex-direction: column;
+}
+* {
+  font-family: 'Roboto';
+}
+.name {
+  font-weight: 600;
+  font-size: 20px;
+  color: #1e293b;
+}
+.name-credits {
+  font-size: 14px;
+  color: #64748b;
+}
